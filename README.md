@@ -8,8 +8,8 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Java, SQL
-- **Databases:** MySQL, SQLite, HBase
-- **Tools & Platforms:** IntelliJ IDEA, VS Code, Figma
+- **Databases:** MySQL, SQLite
+- **Tools & Platforms:** IntelliJ IDEA, VS Code, Figma, NetBeans
 - **Domains:** Data Analytics, Machine Learning, Computer Networks
 
 ### 📌 Major Projects
