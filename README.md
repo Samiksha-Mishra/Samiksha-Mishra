@@ -10,10 +10,9 @@
 - **Languages:** Python, Java, SQL
 - **Databases:** MySQL, SQLite
 - **Tools & Platforms:** IntelliJ IDEA, VS Code, Figma, NetBeans
-- **Domains:** Data Analytics, Machine Learning, Computer Networks
+- **Domains:** Data Analytics, Machine Learning
 
-### 📌 Major Projects
-- **🔹 RETap** – A robust payment retry mechanism to minimize failures, supporting offline payments.
+### 📌 Major Projects 
 - **🔹 Dyslexia Learning App** – Currently working to aid dyslexic learners.
 
 ### 🔗 Connect With Me
