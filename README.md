@@ -1,7 +1,7 @@
 👋 Hey there! I'm Samiksha Mishra
 
 ### 🚀 About Me
-- 🎓 **B.Tech CS | 3rd Year** 
+- 🎓 **B.Tech CS | 4th Year** 
 - 💡 Passionate about **Algorithms, Machine Learning, and Data Analytics**
 - 🏆 **Top 5%** in NPTEL ‘The Joy of Computing Using Python’
 - 🏅 **GfG 160 - 160 Days of Problem Solving** (Check out my progress!)
