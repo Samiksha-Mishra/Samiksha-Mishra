@@ -41,9 +41,9 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samiksha-Mishra" alt="streak stats" height="180" />
+  <img src="https://github-readme-streak-stats-ten-pink.vercel.app?user=Samiksha-Mishra" alt="streak stats" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samiksha-Mishra&show_icons=true&locale=en&layout=compact" alt="top languages" height="180" />
 </p>
